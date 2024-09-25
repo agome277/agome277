@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋
+The moment I decided I would be Computer Scientist happened fairly late in my life - my freshmen year at college. Despite not being a CS major at the time, several classes had me use languages like Python and MATLAB on projects and assignments. What seemed like an inconvinece at the time would turn into a huge facination that literally changed the trajectory of my life.
+. . .
+
+Proffiecent at: Python, C, C++
+Learning: Java, SQL
 
 <!--
 **agome277/agome277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
