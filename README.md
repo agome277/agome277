@@ -1,9 +1,12 @@
 Hi there 👋
-The moment I decided I would be Computer Scientist happened fairly late in my life - my freshmen year at college. Despite not being a CS major at the time, several classes had me use languages like Python and MATLAB on projects and assignments. What seemed like an inconvinece at the time would turn into a huge facination that literally changed the trajectory of my life.
+The moment I decided I would be Computer Scientist happened fairly late in my life - my freshmen year at college. Despite not being a CS major at the time, several classes had me use languages like Python and MATLAB on projects and assignments. What seemed like an inconvinece at the time would turn into a huge facination that literally changed the trajectory of my life. 
+
+It didn't take long after to switch and dive into this whole new world. Like most other programmers, I simply find the problem solving nature and methodology of programming very captivating. As I countine learning, I look foward mostly to practicing event driven programming and making projects of my own interest.    
+
 . . .
 
 Proffiecent at: Python, C, C++
-Learning: Java, SQL
+Learning: Java, SQL, F#
 
 <!--
 **agome277/agome277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
