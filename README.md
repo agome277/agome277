@@ -7,6 +7,7 @@ It didn't take long after to switch and dive into this whole new world. Like mos
 
 Proffiecent at: Python, C, C++
 Learning: Java, SQL, F#
+Relevant Courses: Program Design I & II, Data Structures, Software Design, Computer Algorithms I, Machine Organization
 
 <!--
 **agome277/agome277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
